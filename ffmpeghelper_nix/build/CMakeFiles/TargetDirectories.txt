@@ -1,0 +1,3 @@
+/home/villain/github/RtspClientSharpCore/ffmpeghelper_nix/build/CMakeFiles/ffmpeghelper.dir
+/home/villain/github/RtspClientSharpCore/ffmpeghelper_nix/build/CMakeFiles/edit_cache.dir
+/home/villain/github/RtspClientSharpCore/ffmpeghelper_nix/build/CMakeFiles/rebuild_cache.dir
